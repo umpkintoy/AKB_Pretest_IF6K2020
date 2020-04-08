@@ -9,6 +9,8 @@ log History
  - 8 April 2020 22:00 Layouting Login Activity
  - 9 April 2020 24:09 Layouting Biodata
  - 9 April 2020 24:25 Layouting Say Hi
+ - 9 April 2020 24:40 Function mulai
+ - 9 April 2020 24:40 Function masuk
 
 */
 
