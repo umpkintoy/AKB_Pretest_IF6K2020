@@ -76,6 +76,7 @@
         android:layout_marginHorizontal="24dp"
         android:background="@drawable/yellow_button"
         android:fontFamily="@font/nunito_bold"
+        android:onClick="buttonLogin"
         android:text="Masuk"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="@+id/relativeLayout"
